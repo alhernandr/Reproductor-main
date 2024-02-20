@@ -76,17 +76,17 @@ function changeMedia() {
 changeMedia(); // Load default media
 
 function bleed(){
-  videoPlayer.src="./videos/Bleed - The Kid Laroi.mp4"
+  videoPlayer.src="videos/Bleed - The Kid Laroi.mp4"
 }
 function tear(){
-  videoPlayer.src="./videos/Tear Me Apart - The Kid Laroi.mp4"
+  videoPlayer.src="videos/Tear Me Apart - The Kid Laroi.mp4"
 }
 function heaven(){
-  videoPlayer.src="./videos/Heaven - The Kid Laroi.mp4"
+  videoPlayer.src="videos/Heaven - The Kid Laroi.mp4"
 }
 function tooMuch(){
-  videoPlayer.src="./videos/Too Much - The Kid Laroi.mp4"
+  videoPlayer.src="videos/Too Much - The Kid Laroi.mp4"
 }
 function alex(){
-  audioPlayer.src="./audios/Alex Warren - Before You Leave Me.mp3"
+  audioPlayer.src="audios/Alex Warren - Before You Leave Me.mp3"
 }
